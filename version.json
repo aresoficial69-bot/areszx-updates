@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.0",
   "notas": "Segunda versión pública de AreszX Optimizer.",
   "url_instalador": "https://github.com/aresoficial69-bot/areszx-updates/releases/download/v.1.0.2/AreszXOptimizer_Setup.exe",
-  "sha256": "fb376029b782290bcdadaeb90ef353007ef61c022a55e7925cb4ba76520e2ec7"
+  "sha256": "sha256:87caa66201f55eaed908c25f913e6fd59f629ff1ea254b63cd964a751085dcae"
 }
