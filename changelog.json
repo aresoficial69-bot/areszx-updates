@@ -1,0 +1,17 @@
+[
+  {
+    "version": "2.0.0",
+    "fecha": "2026-08-14",
+    "notas": "- Sección \"Novedades\": ahora muestra el historial completo de versiones anteriores, con cambios detallados al hacer clic\n- Aviso automático al abrir el programa cuando hay una actualización nueva disponible (antes había que entrar a Novedades a mano para enterarte)\n- Reintento automático para el límite de 30 días de \"Aplicar Todo\" ante cortes momentáneos del servidor\n- Corrección del límite de 30 días de \"Aplicar Todo\": mensaje más claro cuando no se puede confirmar el estado con el servidor\n- Log en vivo al aplicar WinUtil, mostrando qué se está aplicando en cada momento\n- Ajuste de tiempo de espera para que WinUtil no falle en tareas que tardan varios minutos"
+  },
+  {
+    "version": "1.0.2",
+    "fecha": "2026-07-01",
+    "notas": "- Rediseño de las tarjetas WinUtil (escritorio/laptop): ya no dependen de la ventana externa de WinUtil, corren scripts propios con confirmación de riesgo\n- Botón visible para colapsar el menú lateral a modo solo-íconos\n- Mejoras en Discord Rich Presence: botón para unirte al servidor de Discord\n- \"Aplicar Todo\" ahora pide confirmación de todas las tarjetas riesgosas antes de arrancar, en vez de saltearlas\n- Corrección de enlaces de descarga rotos en Tools (MSI Afterburner, VC++ Runtimes, .NET Runtimes)\n- Corrección de conexión al soporte remoto (RustDesk) que a veces no encontraba el servidor propio\n- Corrección para que \"Novedades\" detecte actualizaciones nuevas de forma más confiable"
+  },
+  {
+    "version": "1.0.0",
+    "fecha": "2026-05-01",
+    "notas": "- Primera versión pública de AreszX Optimizer\n- Login con licencia y vinculación de cuenta (Discord o invitado)\n- Tools, Tweaks, Debloat, Centro de Drivers, Overclock y soporte remoto"
+  }
+]
